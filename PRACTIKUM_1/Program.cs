@@ -48,7 +48,7 @@ for(int i = 10; i > 0; i--)
 */
  // Возвести число в квадрат
 
- 
+/* Задание № 1 - сравниение первого числа и квадрата второго
 Console.Clear();
 Console.Write("Введите число 1: ");
 int a = int.Parse(Console.ReadLine()!);
@@ -64,3 +64,29 @@ else if (a < c)
     Console.WriteLine("Первое число меньше квадрата второго");
 else if (a > c)
 Console.WriteLine($"Первое число равно {a} и явно больше квадрата второго {c}");
+*/
+
+/* Зажание № 2 - вывод дня недели по заданому номеру*/
+Console.Clear();
+Console.Write("Введите день недели: ");
+int a = int.Parse(Console.ReadLine());
+while (a < 1 || a > 7)
+{
+    Console.Write("Вы ошиблись! \nВведите день недели!\n");
+    a = int.Parse(Console.ReadLine());
+}
+
+if (a == 1)
+    Console.WriteLine("Понедельник!");
+else if (a == 2)
+    Console.WriteLine("Вторник!");
+else if (a == 3)
+    Console.WriteLine("Среда!");
+else if (a == 4)
+    Console.WriteLine("Четверг!");
+else if (a == 5)
+    Console.WriteLine("Пятница!");
+else if (a == 6)
+    Console.WriteLine("Суббота!");
+else if (a == 7)
+    Console.WriteLine("Воскресенье!");

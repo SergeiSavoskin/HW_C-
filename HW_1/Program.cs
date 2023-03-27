@@ -47,6 +47,8 @@ for(int i = 10; i > 0; i--)
     Console.Write($"{i} ");
 */
  // Возвести число в квадрат
+
+ 
 Console.Clear();
 Console.Write("Введите число 1: ");
 int a = int.Parse(Console.ReadLine()!);
