@@ -1,0 +1,15 @@
+C:\Users\Сергей Савоськин\Desktop\HW_C#\PRACTIKUM_1\bin\Debug\net7.0\PRACTIKUM_1.exe
+C:\Users\Сергей Савоськин\Desktop\HW_C#\PRACTIKUM_1\bin\Debug\net7.0\PRACTIKUM_1.deps.json
+C:\Users\Сергей Савоськин\Desktop\HW_C#\PRACTIKUM_1\bin\Debug\net7.0\PRACTIKUM_1.runtimeconfig.json
+C:\Users\Сергей Савоськин\Desktop\HW_C#\PRACTIKUM_1\bin\Debug\net7.0\PRACTIKUM_1.dll
+C:\Users\Сергей Савоськин\Desktop\HW_C#\PRACTIKUM_1\bin\Debug\net7.0\PRACTIKUM_1.pdb
+C:\Users\Сергей Савоськин\Desktop\HW_C#\PRACTIKUM_1\obj\Debug\net7.0\PRACTIKUM_1.csproj.AssemblyReference.cache
+C:\Users\Сергей Савоськин\Desktop\HW_C#\PRACTIKUM_1\obj\Debug\net7.0\PRACTIKUM_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей Савоськин\Desktop\HW_C#\PRACTIKUM_1\obj\Debug\net7.0\PRACTIKUM_1.AssemblyInfoInputs.cache
+C:\Users\Сергей Савоськин\Desktop\HW_C#\PRACTIKUM_1\obj\Debug\net7.0\PRACTIKUM_1.AssemblyInfo.cs
+C:\Users\Сергей Савоськин\Desktop\HW_C#\PRACTIKUM_1\obj\Debug\net7.0\PRACTIKUM_1.csproj.CoreCompileInputs.cache
+C:\Users\Сергей Савоськин\Desktop\HW_C#\PRACTIKUM_1\obj\Debug\net7.0\PRACTIKUM_1.dll
+C:\Users\Сергей Савоськин\Desktop\HW_C#\PRACTIKUM_1\obj\Debug\net7.0\refint\PRACTIKUM_1.dll
+C:\Users\Сергей Савоськин\Desktop\HW_C#\PRACTIKUM_1\obj\Debug\net7.0\PRACTIKUM_1.pdb
+C:\Users\Сергей Савоськин\Desktop\HW_C#\PRACTIKUM_1\obj\Debug\net7.0\PRACTIKUM_1.genruntimeconfig.cache
+C:\Users\Сергей Савоськин\Desktop\HW_C#\PRACTIKUM_1\obj\Debug\net7.0\ref\PRACTIKUM_1.dll
