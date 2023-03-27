@@ -1,0 +1,15 @@
+C:\Users\Сергей Савоськин\Desktop\HW_C#\HW_1\bin\Debug\net7.0\HW_1.exe
+C:\Users\Сергей Савоськин\Desktop\HW_C#\HW_1\bin\Debug\net7.0\HW_1.deps.json
+C:\Users\Сергей Савоськин\Desktop\HW_C#\HW_1\bin\Debug\net7.0\HW_1.runtimeconfig.json
+C:\Users\Сергей Савоськин\Desktop\HW_C#\HW_1\bin\Debug\net7.0\HW_1.dll
+C:\Users\Сергей Савоськин\Desktop\HW_C#\HW_1\bin\Debug\net7.0\HW_1.pdb
+C:\Users\Сергей Савоськин\Desktop\HW_C#\HW_1\obj\Debug\net7.0\HW_1.csproj.AssemblyReference.cache
+C:\Users\Сергей Савоськин\Desktop\HW_C#\HW_1\obj\Debug\net7.0\HW_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей Савоськин\Desktop\HW_C#\HW_1\obj\Debug\net7.0\HW_1.AssemblyInfoInputs.cache
+C:\Users\Сергей Савоськин\Desktop\HW_C#\HW_1\obj\Debug\net7.0\HW_1.AssemblyInfo.cs
+C:\Users\Сергей Савоськин\Desktop\HW_C#\HW_1\obj\Debug\net7.0\HW_1.csproj.CoreCompileInputs.cache
+C:\Users\Сергей Савоськин\Desktop\HW_C#\HW_1\obj\Debug\net7.0\HW_1.dll
+C:\Users\Сергей Савоськин\Desktop\HW_C#\HW_1\obj\Debug\net7.0\refint\HW_1.dll
+C:\Users\Сергей Савоськин\Desktop\HW_C#\HW_1\obj\Debug\net7.0\HW_1.pdb
+C:\Users\Сергей Савоськин\Desktop\HW_C#\HW_1\obj\Debug\net7.0\HW_1.genruntimeconfig.cache
+C:\Users\Сергей Савоськин\Desktop\HW_C#\HW_1\obj\Debug\net7.0\ref\HW_1.dll
