@@ -48,6 +48,17 @@ for(int i = 10; i > 0; i--)
 */
  // Возвести число в квадрат
 Console.Clear();
-Console.Write("Введите число: ");
-int n = int.Parse(Console.ReadLine()!);
-Console.WriteLine(n * n);
+Console.Write("Введите число 1: ");
+int a = int.Parse(Console.ReadLine()!);
+Console.Write("Введите число 2: ");
+int b = int.Parse(Console.ReadLine()!);
+int c = b * b;
+Console.WriteLine($"Квадрат числа 2 равен: {c}");
+
+if (a == c)
+    Console.WriteLine("Да!");
+
+else if (a < c)
+    Console.WriteLine("Первое число меньше квадрата второго");
+else if (a > c)
+Console.WriteLine($"Первое число равно {a} и явно больше квадрата второго {c}");
