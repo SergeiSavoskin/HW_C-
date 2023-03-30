@@ -37,7 +37,7 @@ else
     Console.WriteLine("Вах! Эти числа саверщенно равны!");
 */
 
-/*Выдать наибольшее из трёх чисел*/
+/*Выдать наибольшее из трёх чисел
 Console.Clear();
 Console.Write("Введите 1-е число: ");
 int a = Convert.ToInt32(Console.ReadLine());
@@ -56,3 +56,4 @@ if (c > max)
     max = c;
 }
 Console.WriteLine($"Максимальное число:  {max}");
+*/
