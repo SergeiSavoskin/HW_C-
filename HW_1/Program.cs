@@ -23,9 +23,36 @@ a = -9 b = -3 -> max = -3
 8 -> 2, 4, 6, 8
 */
 
-/*Задача № 2*/
+/*Задача № 2
 Console.Clear();
 Console.Write("Введите 1-е число: ");
 int a = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите 2-е число: ");
 int b = Convert.ToInt32(Console.ReadLine());
+if (a > b)
+    Console.WriteLine($"{a} больше {b}");
+else if (a < b)
+    Console.WriteLine($"{a} меньше {b}");
+else
+    Console.WriteLine("Вах! Эти числа саверщенно равны!");
+*/
+
+/*Выдать наибольшее из трёх чисел*/
+Console.Clear();
+Console.Write("Введите 1-е число: ");
+int a = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите 2-е число: ");
+int b = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите 3-е число: ");
+int c = Convert.ToInt32(Console.ReadLine());
+
+int max = a;
+if (b > max)
+{
+    max = b;
+}
+if (c > max)
+{
+    max = c;
+}
+Console.WriteLine($"Максимальное число:  {max}");
