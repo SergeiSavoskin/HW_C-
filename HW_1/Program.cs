@@ -23,7 +23,7 @@ a = -9 b = -3 -> max = -3
 8 -> 2, 4, 6, 8
 */
 
-/*Задача № 2
+/* Задача № 2
 Console.Clear();
 Console.Write("Введите 1-е число: ");
 int a = Convert.ToInt32(Console.ReadLine());
@@ -37,7 +37,7 @@ else
     Console.WriteLine("Вах! Эти числа саверщенно равны!");
 */
 
-/*Выдать наибольшее из трёх чисел
+/* Задача 4. Выдать наибольшее из трёх чисел
 Console.Clear();
 Console.Write("Введите 1-е число: ");
 int a = Convert.ToInt32(Console.ReadLine());
@@ -56,4 +56,30 @@ if (c > max)
     max = c;
 }
 Console.WriteLine($"Максимальное число:  {max}");
+*/
+
+/* Задача 6: Напишите программу, которая на вход принимает число и выдаёт, является ли число чётным (делится ли оно на два без остатка). 
+
+Console.Clear();
+Console.Write("Введите ваше число: ");
+int n = Convert.ToInt32(Console.ReadLine());
+
+if (n % 2 == 0)
+    Console.WriteLine("Кратно");
+else
+    Console.WriteLine($"Не кратно");
+*/
+
+/* Задача 8: Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N.
+
+Console.Clear();
+Console.Write("Введите ваше число: ");
+int N = Convert.ToInt32(Console.ReadLine());
+
+int i = 2;
+while (i <= N)
+{
+    Console.Write($"{i} ");
+    i = i + 2;
+}
 */
