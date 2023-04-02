@@ -66,7 +66,7 @@ else if (a > c)
 Console.WriteLine($"Первое число равно {a} и явно больше квадрата второго {c}");
 */
 
-/* Зажание № 2 - вывод дня недели по заданому номеру */
+/* Зажание № 2 - вывод дня недели по заданому номеру 
 Console.Clear();
 Console.Write("Введите день недели: ");
 int a = int.Parse(Console.ReadLine());
@@ -90,3 +90,8 @@ else if (a == 6)
     Console.WriteLine("Суббота!");
 else if (a == 7)
     Console.WriteLine("Воскресенье!");
+    */
+
+    int ii = Convert.ToInt32(Math.Pow(10, -3));
+
+Console.WriteLine(ii);

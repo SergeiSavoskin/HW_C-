@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Сергей Савоськин\\Desktop\\HW_C#\\PRACTICUM_1\\PRACTICUM_1.csproj",
+      "projectUniqueName": "D:\\GITHUB\\HW_C-\\PRACTICUM_1\\PRACTICUM_1.csproj",
       "projectName": "PRACTICUM_1",
-      "projectPath": "C:\\Users\\Сергей Савоськин\\Desktop\\HW_C#\\PRACTICUM_1\\PRACTICUM_1.csproj",
+      "projectPath": "D:\\GITHUB\\HW_C-\\PRACTICUM_1\\PRACTICUM_1.csproj",
       "packagesPath": "C:\\Users\\Сергей Савоськин\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Сергей Савоськин\\Desktop\\HW_C#\\PRACTICUM_1\\obj\\",
+      "outputPath": "D:\\GITHUB\\HW_C-\\PRACTICUM_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Сергей Савоськин\\AppData\\Roaming\\NuGet\\NuGet.Config"
