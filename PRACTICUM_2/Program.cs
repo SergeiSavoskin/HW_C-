@@ -228,3 +228,20 @@ else
     Console.WriteLine($"Не кратно");
 }
 */
+
+/*Задача 16. Принимает на вход два числа и проверяет, 
+является ли одно квадратом второго*/
+
+Console.Clear();
+Console.Write("Введите число 1: ");
+int a = int.Parse(Console.ReadLine()!);
+Console.Write("Введите число 2: ");
+int b = int.Parse(Console.ReadLine()!);
+if (a == b*b || b == a*a) 
+{
+    Console.WriteLine("Одно из чисел является квадратом другого");
+}
+else
+{
+    Console.WriteLine("Здесь нет квадратов..");
+}
