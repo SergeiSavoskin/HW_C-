@@ -1,0 +1,15 @@
+D:\GITHUB\HW_C-\PRACTICUM_3\obj\Debug\net7.0\PRACTICUM_3.csproj.AssemblyReference.cache
+D:\GITHUB\HW_C-\PRACTICUM_3\obj\Debug\net7.0\PRACTICUM_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\GITHUB\HW_C-\PRACTICUM_3\obj\Debug\net7.0\PRACTICUM_3.AssemblyInfoInputs.cache
+D:\GITHUB\HW_C-\PRACTICUM_3\obj\Debug\net7.0\PRACTICUM_3.AssemblyInfo.cs
+D:\GITHUB\HW_C-\PRACTICUM_3\obj\Debug\net7.0\PRACTICUM_3.csproj.CoreCompileInputs.cache
+D:\GITHUB\HW_C-\PRACTICUM_3\bin\Debug\net7.0\PRACTICUM_3.exe
+D:\GITHUB\HW_C-\PRACTICUM_3\bin\Debug\net7.0\PRACTICUM_3.deps.json
+D:\GITHUB\HW_C-\PRACTICUM_3\bin\Debug\net7.0\PRACTICUM_3.runtimeconfig.json
+D:\GITHUB\HW_C-\PRACTICUM_3\bin\Debug\net7.0\PRACTICUM_3.dll
+D:\GITHUB\HW_C-\PRACTICUM_3\bin\Debug\net7.0\PRACTICUM_3.pdb
+D:\GITHUB\HW_C-\PRACTICUM_3\obj\Debug\net7.0\PRACTICUM_3.dll
+D:\GITHUB\HW_C-\PRACTICUM_3\obj\Debug\net7.0\refint\PRACTICUM_3.dll
+D:\GITHUB\HW_C-\PRACTICUM_3\obj\Debug\net7.0\PRACTICUM_3.pdb
+D:\GITHUB\HW_C-\PRACTICUM_3\obj\Debug\net7.0\PRACTICUM_3.genruntimeconfig.cache
+D:\GITHUB\HW_C-\PRACTICUM_3\obj\Debug\net7.0\ref\PRACTICUM_3.dll

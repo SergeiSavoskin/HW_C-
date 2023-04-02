@@ -51,7 +51,7 @@ if (count >= 3 && m2 > 0);
 */
 /* Задача 15: Напишите программу, которая принимает на вход цифру, 
 обозначающую день недели, и проверяет, является ли этот день выходным. */
-
+/*
 Console.Clear();
 Console.Write("Введите номер дня недели: ");
 int n = int.Parse(Console.ReadLine()!);
@@ -63,4 +63,45 @@ if (n > 5 && n < 8)
  else
  {
     Console.WriteLine($"Будний");
+}
+*/
+
+int Promt(String messege)
+{
+    Console.Write(messege);
+    string value = Console.ReadLine();
+    int result = Convert.ToInt32(value);
+    return result;
+}
+bool IsWeekend(int weekDay)
+{
+    if (weekDay > 5)
+    {
+        return true;
+    }
+    return false;
+}
+bool ValidateWeekday(int number)
+{
+    if (number > 0 && number <= 7)
+    {
+        return true;
+    }
+    Console.WriteLine("Это не день недели!");
+    return false;
+}
+
+int weekDay = Promt("Введите день недели >");
+if (ValidateWeekday(weekDay))
+{
+    if (IsWeekend(weekDay))
+    {
+        Console.WriteLine("Наконец-то выходной!");
+    }
+    else
+    {
+        Console.WriteLine("Придётся поработать");
+    }
+
+
 }
