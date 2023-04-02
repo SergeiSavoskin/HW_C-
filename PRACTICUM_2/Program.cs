@@ -171,3 +171,16 @@ Console.WriteLine();
 int pos = Index0f(array, 444);
 Console.WriteLine(pos);
 */
+
+/*Задача №11 Удаляем вторую цифру трёхзначного числа*/
+Console.Clear();
+int n = new Random().Next(100, 1000); // [10, 99]
+Console.WriteLine($"Случайное сгененрированное число: {n}");
+int n1 = n / 100;
+int n2 = n % 10;
+int n3 = (n1*10 + n2);
+
+
+    Console.WriteLine($"n1: {n1}");
+    Console.WriteLine($"n2: {n2}");
+    Console.WriteLine($"Искомое число: {n3}");
