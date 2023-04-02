@@ -172,7 +172,7 @@ int pos = Index0f(array, 444);
 Console.WriteLine(pos);
 */
 
-/*Задача №11 Удаляем вторую цифру трёхзначного числа*/
+/*Задача №11 Удаляем вторую цифру трёхзначного числа
 Console.Clear();
 int n = new Random().Next(100, 1000); // [10, 99]
 Console.WriteLine($"Случайное сгененрированное число: {n}");
@@ -184,3 +184,25 @@ int n3 = (n1*10 + n2);
     Console.WriteLine($"n1: {n1}");
     Console.WriteLine($"n2: {n2}");
     Console.WriteLine($"Искомое число: {n3}");
+*/
+
+/*Задача 12 Принимать на вход два числа и выводить
+ является ли второе число кратным первому. 
+ Если число 2 не кратно числу 1, то программа выводит остаток от деления*/
+
+Console.Clear();
+Console.Write("Введите число 1: ");
+int a = int.Parse(Console.ReadLine()!);
+Console.Write("Введите число 2: ");
+int b = int.Parse(Console.ReadLine()!);
+int c = (a % b);
+
+if (c == 0) 
+{
+    Console.WriteLine("Число 2 кратно числу 1");
+}
+
+else 
+{
+    Console.WriteLine($"Остаток от деления: {c}");
+}
