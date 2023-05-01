@@ -1,0 +1,15 @@
+D:\GITHUB\HW_C-\CW_1\bin\Debug\net7.0\CW_1.exe
+D:\GITHUB\HW_C-\CW_1\bin\Debug\net7.0\CW_1.deps.json
+D:\GITHUB\HW_C-\CW_1\bin\Debug\net7.0\CW_1.runtimeconfig.json
+D:\GITHUB\HW_C-\CW_1\bin\Debug\net7.0\CW_1.dll
+D:\GITHUB\HW_C-\CW_1\bin\Debug\net7.0\CW_1.pdb
+D:\GITHUB\HW_C-\CW_1\obj\Debug\net7.0\CW_1.csproj.AssemblyReference.cache
+D:\GITHUB\HW_C-\CW_1\obj\Debug\net7.0\CW_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GITHUB\HW_C-\CW_1\obj\Debug\net7.0\CW_1.AssemblyInfoInputs.cache
+D:\GITHUB\HW_C-\CW_1\obj\Debug\net7.0\CW_1.AssemblyInfo.cs
+D:\GITHUB\HW_C-\CW_1\obj\Debug\net7.0\CW_1.csproj.CoreCompileInputs.cache
+D:\GITHUB\HW_C-\CW_1\obj\Debug\net7.0\CW_1.dll
+D:\GITHUB\HW_C-\CW_1\obj\Debug\net7.0\refint\CW_1.dll
+D:\GITHUB\HW_C-\CW_1\obj\Debug\net7.0\CW_1.pdb
+D:\GITHUB\HW_C-\CW_1\obj\Debug\net7.0\CW_1.genruntimeconfig.cache
+D:\GITHUB\HW_C-\CW_1\obj\Debug\net7.0\ref\CW_1.dll
