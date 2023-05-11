@@ -277,7 +277,7 @@ Console.WriteLine(newText);
 //                       |
 //                       1
 // */
-
+/*
 int f(int a, int b)
 {
   if (b == 0)
@@ -292,3 +292,32 @@ int n = int.Parse(Console.ReadLine()!);
 Console.Write("Введите степень: ");
 int m = int.Parse(Console.ReadLine()!);
 Console.WriteLine(f(n, m));
+
+*/
+
+// using System;
+// class Program
+// {
+//     static void Main(string[] args)
+//     {
+//         int[] numbers = { 1, 2, 3, 4, 5 };
+//         string[] names = new string[3] { "John", "Mary", "Tom" };
+        
+//         Console.WriteLine("The first number is " + numbers[0]);
+//         Console.WriteLine("The second name is " + names[1]);
+//     }
+// }
+
+
+using System;
+class Program
+{
+    static void Main(string[] args)
+    {
+        int[] numbers = { 1, 2, 3, 4, 5 };
+        string[] names = new string[3] { "John", "Mary", "Tom" };
+        
+        Console.WriteLine("The first number is " + numbers[0]);
+        Console.WriteLine("The second name is " + names[1]);
+    }
+}
